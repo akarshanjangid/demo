@@ -1,1 +1,2 @@
 My Name is AKARSHAN JANGID 
+Take input from the user
